@@ -1,0 +1,97 @@
+.github/dependabot.yml
+  s_2b2793ec240a1a::t_d22842e7c0225f 27-28
+Directory.Packages.props
+  s_2b2793ec240a1a::t_9329bd6b0c9631 22,48
+packages/Core/Core.Tests/Core.Tests.csproj
+  s_2b2793ec240a1a::t_e79da99e4f8c13 21
+packages/Core/Core.Tests/Http/RetryExecutorTests.cs
+  s_2b2793ec240a1a::t_c5dcdf2fee5e4e 9,100-120
+packages/Core/Core/Core.csproj
+  s_2b2793ec240a1a::t_6e96e1d34533b4 41
+packages/Core/Core/Http/RetryExecutor.cs
+  s_2b2793ec240a1a::t_a2c64edd168614 32
+packages/Core/Core/Http/RetryOptions.cs
+  s_2b2793ec240a1a::t_7dd87eb87f99fe 23-29
+packages/Core/Core/PublicAPI.Unshipped.txt
+  s_2b2793ec240a1a::t_83213bc5216451 2-3
+packages/Functions/Functions.Tests/ClientContractTests.cs
+  s_2b2793ec240a1a::t_18008b708b061d 8,297-313
+packages/Functions/Functions.Tests/Functions.Tests.csproj
+  s_2b2793ec240a1a::t_bab3771cc5d0f2 18
+packages/Functions/Functions/Client.cs
+  s_2b2793ec240a1a::t_553fe2d4239011 203
+packages/Gotrue/Gotrue.Tests/Gotrue.Tests.csproj
+  s_2b2793ec240a1a::t_3a8fa0852a5a91 20
+packages/Gotrue/Gotrue.Tests/Support/TestClients.cs
+  s_2b2793ec240a1a::t_fe56daf5a9e114 47-48,56
+packages/Gotrue/Gotrue.Tests/TokenRefresh/SessionRestoreContractTests.cs
+  s_2b2793ec240a1a::t_038072a2d5f0c1 15,206-224
+packages/Gotrue/Gotrue/ClientOptions.cs
+  s_2b2793ec240a1a::t_15605a6e23db59 1,78-85
+packages/Gotrue/Gotrue/PublicAPI.Unshipped.txt
+  s_2b2793ec240a1a::t_15e0f0d4021ab9 2-3
+packages/Gotrue/Gotrue/TokenRefresh.cs
+  s_2b2793ec240a1a::t_cf3a92af157edd 13,33,49,62,74,79,110,113-115,124,129,131,139,159-160,171,174,177-178,182,187,204,209-210,212-213,218-219
+packages/Postgrest/Postgrest.Tests/Postgrest.Tests.csproj
+  s_2b2793ec240a1a::t_342ee763f9cf21 15
+packages/Postgrest/Postgrest.Tests/Requests/TimeoutTests.cs
+  s_2b2793ec240a1a::t_bbdee0367fc0db 4,7,31-47
+packages/Postgrest/Postgrest/Helpers.cs
+  s_2b2793ec240a1a::t_4a31c0f126d17b 150
+packages/Realtime/Realtime.Tests/Channels/ChannelLifecycleTests.cs
+  s_2b2793ec240a1a::t_0d638e856ba542 3,6,8,10,66-85,96-113
+packages/Realtime/Realtime.Tests/Channels/PushTimeoutTests.cs
+  s_2b2793ec240a1a::t_b4c91e25e53b1c 4,62-78
+packages/Realtime/Realtime.Tests/Connection/DeferredDisconnectTests.cs
+  s_2b2793ec240a1a::t_6ef574b2182ca4 4,51-72,78
+packages/Realtime/Realtime.Tests/Realtime.Tests.csproj
+  s_2b2793ec240a1a::t_e91ba641bb7d11 23-24
+packages/Realtime/Realtime.Tests/Socket/HeartbeatTests.cs
+  s_2b2793ec240a1a::t_228de4514fc64e 4,18-19,41-69,72-78,82-90
+packages/Realtime/Realtime.Tests/Support/FakeWebSocket.cs
+  s_2b2793ec240a1a::t_646dcf8cc3f8cc 8,76-80,84-86,88
+packages/Realtime/Realtime/Channel/Push.cs
+  s_2b2793ec240a1a::t_8bc43e9b6b2bd2 3,59-61,63,82-85,101,103,127,131-132,136-139,197,199,203
+packages/Realtime/Realtime/Client.cs
+  s_2b2793ec240a1a::t_be409388624c92 437
+packages/Realtime/Realtime/ClientOptions.cs
+  s_2b2793ec240a1a::t_137bc4d6cef22f 104-111
+packages/Realtime/Realtime/PublicAPI.Unshipped.txt
+  s_2b2793ec240a1a::t_2859c619ed2ec4 2-3
+packages/Realtime/Realtime/RealtimeChannel.cs
+  s_2b2793ec240a1a::t_6b3a80cfb2abfb 6,161-164,181-183,306,308,704,720-742,780,792
+packages/Realtime/Realtime/RealtimeSocket.cs
+  s_2b2793ec240a1a::t_be7a4de77b062c 62,91,119,331,339-343,345-349,352-353
+packages/Supabase/Supabase.Tests/ClientHttpInjectionTests.cs
+  s_2b2793ec240a1a::t_3835472c9e3c06 6,64-108
+packages/Supabase/Supabase.Tests/StatelessClientTests.cs
+  s_2b2793ec240a1a::t_200df50363628d 5,89-107
+packages/Supabase/Supabase.Tests/Supabase.Tests.csproj
+  s_2b2793ec240a1a::t_f7ebbc6643f0ae 19
+packages/Supabase/Supabase.Tests/SupabaseOptionsTests.cs
+  s_2b2793ec240a1a::t_a99a654d467928 35
+packages/Supabase/Supabase/Client.cs
+  s_2b2793ec240a1a::t_660dae8a0417df 61-62,194-195,204,217-218,231,236
+packages/Supabase/Supabase/PublicAPI.Unshipped.txt
+  s_2b2793ec240a1a::t_6694b00a1db881 2-3
+packages/Supabase/Supabase/StatelessClient.cs
+  s_2b2793ec240a1a::t_3a3f5ddf08e604 38-39,59,79,112,137-138
+packages/Supabase/Supabase/SupabaseOptions.cs
+  s_2b2793ec240a1a::t_c8a015e1922563 6,34-35,92-111,136-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cd1d4715fdcc1c58d80575f0e105170c420964ad",
+  "prompts": {},
+  "sessions": {
+    "s_2b2793ec240a1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80f0569-9e65-426b-96b8-d3f0ba446d24",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
