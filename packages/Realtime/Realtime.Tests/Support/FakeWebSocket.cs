@@ -78,8 +78,13 @@ internal sealed class FakeWebsocketClient : IWebsocketClient
 
     private int heartbeatsSent;
 
+    /// <summary>Every text frame sent, in order.</summary>
+    public List<string> Sent { get; } = new();
+
     public bool Send(string message)
     {
+        lock (this.Sent)
+            this.Sent.Add(message);
         this.FirstSend.TrySetResult();
         if (JsonNode.Parse(message) is not { } frame || (string?) frame["event"] != "heartbeat")
             return true;
