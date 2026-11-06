@@ -1,0 +1,22 @@
+packages/Realtime/.gate-baseline.json
+  h_a6bdcede89ab8e 18,20
+packages/Realtime/Realtime.Tests/Connection/ClientReconnectionTests.cs
+  h_a6bdcede89ab8e 1,48-86
+packages/Realtime/Realtime.Tests/Support/FakeWebSocket.cs
+  h_a6bdcede89ab8e 34
+packages/Realtime/Realtime/Client.cs
+  h_a6bdcede89ab8e 259-268
+packages/Realtime/Realtime/RealtimeSocket.cs
+  h_a6bdcede89ab8e 70,121,338,381-386
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "69c96b55204dac78967179b73fdaa9743fd17eb9",
+  "prompts": {},
+  "humans": {
+    "h_a6bdcede89ab8e": {
+      "author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
