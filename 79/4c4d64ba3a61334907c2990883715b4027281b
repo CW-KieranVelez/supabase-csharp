@@ -1,0 +1,31 @@
+packages/Gotrue/Gotrue.Tests/Transport/FallbackHttpClientTests.cs
+  s_2b2793ec240a1a::t_c9c0e38c934456 1-39
+packages/Gotrue/Gotrue/FallbackHttpClient.cs
+  s_2b2793ec240a1a::t_738c2e8d3381bf 1-22
+packages/Postgrest/Postgrest.Tests/Requests/FallbackHttpClientTests.cs
+  s_2b2793ec240a1a::t_f704e8c5d5761f 1-39
+packages/Postgrest/Postgrest/FallbackHttpClient.cs
+  s_2b2793ec240a1a::t_3a536a90580388 1-22
+packages/Realtime/Realtime.Tests/Socket/PushDispatchTests.cs
+  s_2b2793ec240a1a::t_711b448e073983 1-92
+packages/Realtime/Realtime.Tests/Support/FakeWebSocket.cs
+  s_2b2793ec240a1a::t_21845a34631454 81-83,86-87
+packages/Storage/Storage.Tests/Files/ProgressableStreamContentTests.cs
+  s_2b2793ec240a1a::t_211bbf41d88d2b 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "794c4d64ba3a61334907c2990883715b4027281b",
+  "prompts": {},
+  "sessions": {
+    "s_2b2793ec240a1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80f0569-9e65-426b-96b8-d3f0ba446d24",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
