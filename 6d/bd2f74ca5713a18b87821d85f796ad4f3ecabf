@@ -1,0 +1,19 @@
+packages/Gotrue/Gotrue/TokenRefresh.cs
+  s_a4a4c4593353f8::t_8856ca46d62646 213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6dbd2f74ca5713a18b87821d85f796ad4f3ecabf",
+  "prompts": {},
+  "sessions": {
+    "s_a4a4c4593353f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b98e9b5-2916-4b22-b75d-190f48dbd544",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
