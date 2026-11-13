@@ -1,0 +1,405 @@
+packages/Realtime/Realtime/ClientOptions.cs
+  s_a4a4c4593353f8::t_2c26a0d4ef76a8 4,113-119
+packages/Realtime/Realtime.Tests/Support/FakeWebSocket.cs
+  s_a4a4c4593353f8::t_82c5b3cff4f30e 50-53,56-58,77-79,94,99-102
+packages/Realtime/Realtime/RealtimeSocket.cs
+  s_a4a4c4593353f8::t_c50d2f43dd0fd2 3,10,28-32,60-64,73,80,85,103,106-108,122-123,132-134,144,177,205,233,266,327,334-335,395-400,433,441-442,449
+packages/Gotrue/Gotrue/PublicAPI.Unshipped.txt
+  s_a4a4c4593353f8::t_c50d2f43dd0fd2 4-208
+.release-please-manifest.json
+  s_a4a4c4593353f8::t_010dae31542d0f 2
+CHANGELOG.md
+  s_a4a4c4593353f8::t_339edd499f2c95 3-36
+Directory.Packages.props
+  s_a4a4c4593353f8::t_4a84d4a4618aef 25,45-46
+docs/migrations/README.md
+  s_a4a4c4593353f8::t_2dfbe16965fcb7 13
+docs/migrations/v9.0.0.md
+  s_a4a4c4593353f8::t_08092a1598256c 1-102
+packages/Core/Core/Core.csproj
+  s_a4a4c4593353f8::t_1bad1def62a512 15-16
+packages/Functions/Functions/Functions.csproj
+  s_a4a4c4593353f8::t_d8ca6e1362224a 13-14,26
+packages/Gotrue/.gate-baseline.json
+  s_a4a4c4593353f8::t_609fafa3e4042d 7,11,21,23
+packages/Gotrue/Gotrue.Tests/Authentication/AuthenticationFailureTests.cs
+  s_a4a4c4593353f8::t_1dc3f261b86e30 30,37,48,57,61,71
+packages/Gotrue/Gotrue.Tests/Authentication/LinkIdentityWithIdTokenContractTests.cs
+  s_a4a4c4593353f8::t_cded30b7a1fa24 47-48,52,57-59,73,75-76,85,88,99,104,106-108
+packages/Gotrue/Gotrue.Tests/Authentication/PasswordlessSignInTests.cs
+  s_a4a4c4593353f8::t_0175d1d097ae8a 26,39
+packages/Gotrue/Gotrue.Tests/Authentication/SignInFailureContractTests.cs
+  s_a4a4c4593353f8::t_29618d1f50d51d 53
+packages/Gotrue/Gotrue.Tests/Authentication/SignInTests.cs
+  s_a4a4c4593353f8::t_f593e9f9efa168 28,39,49
+packages/Gotrue/Gotrue.Tests/Authentication/SignOutLocalSessionTests.cs
+  s_a4a4c4593353f8::t_6d599316ec30e2 3-7,13,20,27-28,34,45,48,54-79,81,83-121,126-151,156-189,193
+packages/Gotrue/Gotrue.Tests/Authentication/SignOutTests.cs
+  s_a4a4c4593353f8::t_107742c7915210 3-4,9,17-18,46-66
+packages/Gotrue/Gotrue.Tests/Authentication/SignUpContractTests.cs
+  s_a4a4c4593353f8::t_8792bf07009974 28,154
+packages/Gotrue/Gotrue.Tests/Authentication/SignUpTests.cs
+  s_a4a4c4593353f8::t_73bb1a33226687 16-17,27-28,35,37-54
+packages/Gotrue/Gotrue.Tests/Common/Data/saml_idp_metadata.xml
+  s_a4a4c4593353f8::t_00afe3b41aa649 1-6
+packages/Gotrue/Gotrue.Tests/Common/Data/sso_provider.json
+  s_a4a4c4593353f8::t_958c03a7562d8b 1-21
+packages/Gotrue/Gotrue.Tests/Common/Data/sso_provider_sparse.json
+  s_a4a4c4593353f8::t_fb7fb98664057e 1-11
+packages/Gotrue/Gotrue.Tests/Common/Data/sso_provider_with_name_id_format.json
+  s_a4a4c4593353f8::t_1c69d85d805ae2 1-12
+packages/Gotrue/Gotrue.Tests/Common/Data/sso_provider_without_saml.json
+  s_a4a4c4593353f8::t_1bda2c8cbc92cb 1-7
+packages/Gotrue/Gotrue.Tests/Common/SamlMetadataTests.cs
+  s_a4a4c4593353f8::t_e4ff8a1aaca6ff 1-57
+packages/Gotrue/Gotrue.Tests/Common/SsoProviderAdminFixture.cs
+  s_a4a4c4593353f8::t_92189c6379d1ad 1-88
+packages/Gotrue/Gotrue.Tests/Common/SsoProviderReferenceTests.cs
+  s_a4a4c4593353f8::t_04d6e94f584bc4 1-55
+packages/Gotrue/Gotrue.Tests/Common/SsoProviderResponses.cs
+  s_a4a4c4593353f8::t_d2941326e5ccdf 1-25
+packages/Gotrue/Gotrue.Tests/ConcurrentPkceFlows/ConcurrentPkceFlowsContractTests.cs
+  s_a4a4c4593353f8::t_b12ae34c7f64bd 1-70
+packages/Gotrue/Gotrue.Tests/ConcurrentPkceFlows/ConcurrentPkceFlowsTests.cs
+  s_a4a4c4593353f8::t_61d66d11aaadec 1-65
+packages/Gotrue/Gotrue.Tests/Configuration/ClientConfigurationTests.cs
+  s_a4a4c4593353f8::t_7a7cb9b2abb9fa 33
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/CreateSsoProviderApprovalTests.cs
+  s_a4a4c4593353f8::t_8549550a8dd5a5 1-84
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/CreateSsoProviderContractTests.cs
+  s_a4a4c4593353f8::t_26fa597c2e8a86 1-161
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/CreateSsoProviderTests.cs
+  s_a4a4c4593353f8::t_eb32321675f2b0 1-133
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendDisabledAsOppositeOfEnabled_enabled=False.verified.txt
+  s_a4a4c4593353f8::t_5a4c780730519e 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendDisabledAsOppositeOfEnabled_enabled=True.verified.txt
+  s_a4a4c4593353f8::t_9505ee17f99d6d 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendEverySetting_GivenUrlWithOptions.verified.txt
+  s_a4a4c4593353f8::t_7afa60fe251015 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=EmailAddress.verified.txt
+  s_a4a4c4593353f8::t_48648d84d196ca 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=Persistent.verified.txt
+  s_a4a4c4593353f8::t_0723e1375f3e06 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=Transient.verified.txt
+  s_a4a4c4593353f8::t_c76c03450d702d 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=Unspecified.verified.txt
+  s_a4a4c4593353f8::t_e5db023fe36721 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendOnlyTypeAndMetadataUrl_GivenUrlWithoutOptions.verified.txt
+  s_a4a4c4593353f8::t_6af740daf36644 1
+packages/Gotrue/Gotrue.Tests/CreateSsoProvider/Data/CreateSsoProviderApprovalTests.CreateSsoProviderRequest_ShouldSendOnlyTypeAndMetadataXml_GivenXmlWithEmptyOptions.verified.txt
+  s_a4a4c4593353f8::t_94edcf99c2beeb 1
+packages/Gotrue/Gotrue.Tests/DeleteSsoProvider/DeleteSsoProviderArgumentTests.cs
+  s_a4a4c4593353f8::t_aaaf30cda9f351 1-28
+packages/Gotrue/Gotrue.Tests/DeleteSsoProvider/DeleteSsoProviderContractTests.cs
+  s_a4a4c4593353f8::t_8af3fcb83a5ecc 1-117
+packages/Gotrue/Gotrue.Tests/DeleteSsoProvider/DeleteSsoProviderTests.cs
+  s_a4a4c4593353f8::t_421df9361490c3 1-98
+packages/Gotrue/Gotrue.Tests/Errors/FailureHintTests.cs
+  s_a4a4c4593353f8::t_28b9f57983a9a9 8,51,83,93,103,116
+packages/Gotrue/Gotrue.Tests/GetSsoProvider/GetSsoProviderArgumentTests.cs
+  s_a4a4c4593353f8::t_2776fe7aadd4f5 1-28
+packages/Gotrue/Gotrue.Tests/GetSsoProvider/GetSsoProviderContractTests.cs
+  s_a4a4c4593353f8::t_76d3fffefc6a91 1-187
+packages/Gotrue/Gotrue.Tests/GetSsoProvider/GetSsoProviderTests.cs
+  s_a4a4c4593353f8::t_92b2c15376b817 1-83
+packages/Gotrue/Gotrue.Tests/Gotrue.Tests.csproj
+  s_a4a4c4593353f8::t_ddbbb262e6bfb4 19,37,39,52,55
+packages/Gotrue/Gotrue.Tests/ListSsoProviders/ListSsoProvidersContractTests.cs
+  s_a4a4c4593353f8::t_29c30c28998fc3 1-139
+packages/Gotrue/Gotrue.Tests/ListSsoProviders/ListSsoProvidersTests.cs
+  s_a4a4c4593353f8::t_a5fb00293f18fb 1-88
+packages/Gotrue/Gotrue.Tests/ListSsoProviders/SsoProviderFilterTests.cs
+  s_a4a4c4593353f8::t_619b70df7e312b 1-48
+packages/Gotrue/Gotrue.Tests/Mfa/MfaEnrollmentTests.cs
+  s_a4a4c4593353f8::t_4c13cf738cba0a 6,26
+packages/Gotrue/Gotrue.Tests/Network/NetworkStatusTests.cs
+  s_a4a4c4593353f8::t_9fe0f0afcda394 54,64
+packages/Gotrue/Gotrue.Tests/Network/OfflineClientContractTests.cs
+  s_a4a4c4593353f8::t_24d30d8d61a0b8 14,40,64
+packages/Gotrue/Gotrue.Tests/Observability/ObservabilityContractTests.cs
+  s_a4a4c4593353f8::t_89ade81544ab95 16,116-125,197-218,431-438
+packages/Gotrue/Gotrue.Tests/Pkce/Data/exchanged_session.json
+  s_a4a4c4593353f8::t_bb42aeda95553c 1-13
+packages/Gotrue/Gotrue.Tests/Pkce/PkceContractTests.cs
+  s_a4a4c4593353f8::t_9d832dafbf33b7 4,14,32-36,78-170,180-187,196-206
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/SignInWithWeb3ApprovalTests.SignInWithWeb3Request_ShouldPrefixTheEthereumSignature_GivenSignatureWithoutPrefix.verified.txt
+  s_a4a4c4593353f8::t_d81eae542aeacd 1
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/SignInWithWeb3ApprovalTests.SignInWithWeb3Request_ShouldSendNoSecurityField_GivenEmptyCaptchaToken.verified.txt
+  s_a4a4c4593353f8::t_f189bf6b4e112c 1
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/SignInWithWeb3ApprovalTests.SignInWithWeb3Request_ShouldSendTheCaptchaToken_GivenCaptchaToken.verified.txt
+  s_a4a4c4593353f8::t_f4842bbb26c989 1
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/SignInWithWeb3ApprovalTests.SignInWithWeb3Request_ShouldSendThePrefixedEthereumSignature_GivenSignatureWithPrefix.verified.txt
+  s_a4a4c4593353f8::t_f9e7eaa9b63bf5 1
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/SignInWithWeb3ApprovalTests.SignInWithWeb3Request_ShouldSendTheSolanaSignatureAsBase64Url.verified.txt
+  s_a4a4c4593353f8::t_bcdd6115b91979 1
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/captcha_failed_error.json
+  s_a4a4c4593353f8::t_734a2f92c0be9b 1-5
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/rate_limited_error.json
+  s_a4a4c4593353f8::t_08b3f3428173ba 1-5
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/session_without_access_token.json
+  s_a4a4c4593353f8::t_fb0216e5074c06 1-5
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/signature_mismatch_error.json
+  s_a4a4c4593353f8::t_5e39ae8e0aacfb 1-4
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/signed_in_session.json
+  s_a4a4c4593353f8::t_5bf8459552318f 1-21
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/validation_failed_error.json
+  s_a4a4c4593353f8::t_1d556370f3d803 1-5
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Data/web3_disabled_error.json
+  s_a4a4c4593353f8::t_a0ed846ec06854 1-5
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/EthereumWallet.cs
+  s_a4a4c4593353f8::t_544cc7260dfb8b 1-89
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/SignInMessages.cs
+  s_a4a4c4593353f8::t_5b1da896a7cb5d 1-36
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/SignInWithWeb3ApiContractTests.cs
+  s_a4a4c4593353f8::t_aaf90cdf74fd4e 1-81
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/SignInWithWeb3ApprovalTests.cs
+  s_a4a4c4593353f8::t_092d8fe8e42dff 1-69
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/SignInWithWeb3ContractTests.cs
+  s_a4a4c4593353f8::t_080bcfc03ba9d7 1-242
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/SignInWithWeb3Tests.cs
+  s_a4a4c4593353f8::t_5a83aab2a95dcf 1-78
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/SolanaWallet.cs
+  s_a4a4c4593353f8::t_1e50923cd9c119 1-52
+packages/Gotrue/Gotrue.Tests/SignInWithWeb3/Web3CredentialsTests.cs
+  s_a4a4c4593353f8::t_2b917079f24a9a 1-107
+packages/Gotrue/Gotrue.Tests/SignOut/AdminSignOutTests.cs
+  s_a4a4c4593353f8::t_bcad182150b646 49
+packages/Gotrue/Gotrue.Tests/SignOut/SignOutReasonContractTests.cs
+  s_a4a4c4593353f8::t_4d35f341983a96 1-143
+packages/Gotrue/Gotrue.Tests/SignOut/SignOutReasonTests.cs
+  s_a4a4c4593353f8::t_c48f81e090cda3 1-67
+packages/Gotrue/Gotrue.Tests/SignUp/Data/SignUpApprovalTests.SignUpAsync_ShouldNestMetadataAndCaptcha_GivenUserDataAndACaptchaToken.verified.txt
+  s_a4a4c4593353f8::t_c899fd02162b55 1
+packages/Gotrue/Gotrue.Tests/SignUp/Data/SignUpApprovalTests.SignUpAsync_ShouldSendEmailAndPassword_GivenAnEmailSignUp.verified.txt
+  s_a4a4c4593353f8::t_7c7fb88e8e2930 1
+packages/Gotrue/Gotrue.Tests/SignUp/Data/SignUpApprovalTests.SignUpAsync_ShouldSendTheSmsChannel_GivenAPhoneSignUp.verified.txt
+  s_a4a4c4593353f8::t_2e0a3982bde782 1
+packages/Gotrue/Gotrue.Tests/SignUp/Data/SignUpApprovalTests.SignUpAsync_ShouldSendTheWhatsAppChannel_GivenAPhoneSignUpOverWhatsApp.verified.txt
+  s_a4a4c4593353f8::t_e4b4ceaefe3b2e 1
+packages/Gotrue/Gotrue.Tests/SignUp/Data/acknowledgement.json
+  s_a4a4c4593353f8::t_6ab68f9e30bf59 1
+packages/Gotrue/Gotrue.Tests/SignUp/Data/auto-confirmed-sign-up.json
+  s_a4a4c4593353f8::t_ec6a627a53bcd2 1-12
+packages/Gotrue/Gotrue.Tests/SignUp/Data/pending-sign-up.json
+  s_a4a4c4593353f8::t_cdbfdc39b71f70 1
+packages/Gotrue/Gotrue.Tests/SignUp/SignUpApprovalTests.cs
+  s_a4a4c4593353f8::t_f9571360f61cbd 1-51
+packages/Gotrue/Gotrue.Tests/SignUp/SignUpContractTests.cs
+  s_a4a4c4593353f8::t_5c2927ef45a583 1-243
+packages/Gotrue/Gotrue.Tests/Support/AuthClientFixture.cs
+  s_a4a4c4593353f8::t_cadc2250bd426f 41
+packages/Gotrue/Gotrue.Tests/Support/Mailbox.cs
+  s_a4a4c4593353f8::t_0f51b2dbf4508b 1-67
+packages/Gotrue/Gotrue.Tests/Support/MockGotrueServer.cs
+  s_a4a4c4593353f8::t_71114551adfd19 42-47
+packages/Gotrue/Gotrue.Tests/TokenRefresh/SessionRestoreContractTests.cs
+  s_a4a4c4593353f8::t_d9a260e7dce69d 19,301-322
+packages/Gotrue/Gotrue.Tests/Transport/NonJsonResponseTests.cs
+  s_a4a4c4593353f8::t_d219980e96d8c4 8,49
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendCurrentNameIdFormatWithDomains_GivenChangesKeepingNameIdFormat.verified.txt
+  s_a4a4c4593353f8::t_ccec279fbb9b2c 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendDisabledAsOppositeOfEnabled_enabled=False.verified.txt
+  s_a4a4c4593353f8::t_7cb6611a5873fc 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendDisabledAsOppositeOfEnabled_enabled=True.verified.txt
+  s_a4a4c4593353f8::t_7b7fe007bec062 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendEmptyValues_GivenClearedSettings.verified.txt
+  s_a4a4c4593353f8::t_23851435399799 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendEverySetting_GivenMetadataUrlWithEveryChange.verified.txt
+  s_a4a4c4593353f8::t_3ee464a598de6d 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendMetadataXml_GivenMetadataXml.verified.txt
+  s_a4a4c4593353f8::t_63f3fd54ef9745 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=EmailAddress.verified.txt
+  s_a4a4c4593353f8::t_6654b1dabe5177 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=Persistent.verified.txt
+  s_a4a4c4593353f8::t_6328e040ce7ff3 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=Transient.verified.txt
+  s_a4a4c4593353f8::t_ab6db54b799e3f 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendNameIdFormatAsItsUrn_format=Unspecified.verified.txt
+  s_a4a4c4593353f8::t_0b5965b9cf352f 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendNoNameIdFormat_GivenChangesKeepingAbsentNameIdFormat.verified.txt
+  s_a4a4c4593353f8::t_b68976a3a293e5 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/Data/UpdateSsoProviderApprovalTests.UpdateSsoProviderRequest_ShouldSendNothing_GivenNoChangeWithoutNameIdFormat.verified.txt
+  s_a4a4c4593353f8::t_6126525487e57c 1
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/SsoProviderChangesTests.cs
+  s_a4a4c4593353f8::t_c6163a4fa828bb 1-25
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/UpdateSsoProviderApprovalTests.cs
+  s_a4a4c4593353f8::t_8da77e5502bfe3 1-115
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/UpdateSsoProviderArgumentTests.cs
+  s_a4a4c4593353f8::t_3247344f7b1320 1-37
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/UpdateSsoProviderContractTests.cs
+  s_a4a4c4593353f8::t_849013f9b10f27 1-182
+packages/Gotrue/Gotrue.Tests/UpdateSsoProvider/UpdateSsoProviderTests.cs
+  s_a4a4c4593353f8::t_034e86a6f05c69 1-139
+packages/Gotrue/Gotrue.Tests/Users/PasswordManagementTests.cs
+  s_a4a4c4593353f8::t_3ddd00e6f04de6 27,38,46
+packages/Gotrue/Gotrue.Tests/Users/UserProfileTests.cs
+  s_a4a4c4593353f8::t_78df939f6540e3 29,46
+packages/Gotrue/Gotrue/AdminClient.cs
+  s_a4a4c4593353f8::t_4ff1cf24a7bc74 8,10,15,197-221
+packages/Gotrue/Gotrue/Api.cs
+  s_a4a4c4593353f8::t_ddb31e0ecbae0a 15,22,29-30,33,136-160,345,354,359,380-388,755,758-766,860-897,1171-1190
+packages/Gotrue/Gotrue/Client.cs
+  s_a4a4c4593353f8::t_9d86202afea9a9 23-25,229-233,238,260-283,585-597,604-625,628-639,643-651,880,884,1071,1077-1078,1099-1102,1391-1393,1400,1415-1418,1426,1431-1436,1454
+packages/Gotrue/Gotrue/Common/SamlAttribute.cs
+  s_a4a4c4593353f8::t_26b1429dcefd92 1-23
+packages/Gotrue/Gotrue/Common/SamlAttributeBody.cs
+  s_a4a4c4593353f8::t_1c3f1cf452a31c 1-27
+packages/Gotrue/Gotrue/Common/SamlAttributeMappingBody.cs
+  s_a4a4c4593353f8::t_d18c41963aeae5 1-17
+packages/Gotrue/Gotrue/Common/SamlAttributeMappingResponse.cs
+  s_a4a4c4593353f8::t_dbb3853c256f0a 1-15
+packages/Gotrue/Gotrue/Common/SamlAttributeResponse.cs
+  s_a4a4c4593353f8::t_a9885fa7ac90d9 1-34
+packages/Gotrue/Gotrue/Common/SamlConfiguration.cs
+  s_a4a4c4593353f8::t_34facef09e8e50 1-31
+packages/Gotrue/Gotrue/Common/SamlConfigurationResponse.cs
+  s_a4a4c4593353f8::t_566a84f98719b2 1-44
+packages/Gotrue/Gotrue/Common/SamlMetadata.cs
+  s_a4a4c4593353f8::t_04e0d363cd91f0 1-53
+packages/Gotrue/Gotrue/Common/SamlNameIdFormat.cs
+  s_a4a4c4593353f8::t_4297eebd635038 1-25
+packages/Gotrue/Gotrue/Common/SamlNameIdFormatUrn.cs
+  s_a4a4c4593353f8::t_7e840d1700c555 1-7
+packages/Gotrue/Gotrue/Common/SignOutReason.cs
+  s_a4a4c4593353f8::t_17d9db8ebf855a 1-17
+packages/Gotrue/Gotrue/Common/SsoDomainResponse.cs
+  s_a4a4c4593353f8::t_5020b46d471542 1-9
+packages/Gotrue/Gotrue/Common/SsoProvider.cs
+  s_a4a4c4593353f8::t_86cd585fdda5fe 1-35
+packages/Gotrue/Gotrue/Common/SsoProviderReference.cs
+  s_a4a4c4593353f8::t_91e00b1f630597 1-62
+packages/Gotrue/Gotrue/Common/SsoProviderResponse.cs
+  s_a4a4c4593353f8::t_211d7de7e41fda 1-49
+packages/Gotrue/Gotrue/CreateSsoProvider/CreateSsoProviderBody.cs
+  s_a4a4c4593353f8::t_83ebd799eb5d84 1-58
+packages/Gotrue/Gotrue/CreateSsoProvider/SsoProviderOptions.cs
+  s_a4a4c4593353f8::t_9752306601ab00 1-35
+packages/Gotrue/Gotrue/Gotrue.csproj
+  s_a4a4c4593353f8::t_b707c1bfe62ef5 14-15,33
+packages/Gotrue/Gotrue/GotrueInstrumentation.cs
+  s_a4a4c4593353f8::t_e9a42b350ce604 74,109
+packages/Gotrue/Gotrue/Interfaces/IGotrueAdminClient.cs
+  s_a4a4c4593353f8::t_2ecc7b818d010a 8-9,14,370-549
+packages/Gotrue/Gotrue/Interfaces/IGotrueApi.cs
+  s_a4a4c4593353f8::t_5fa609497636b3 10,13,18-19,22,68-79,178-191,308-364,401-408
+packages/Gotrue/Gotrue/Interfaces/IGotrueClient.cs
+  s_a4a4c4593353f8::t_9321f3c248b1a2 18-19,72-88,328-330,347-349,388,418,421-456,468-476,481,767-796,896-903
+packages/Gotrue/Gotrue/ListSsoProviders/ListSsoProvidersQuery.cs
+  s_a4a4c4593353f8::t_4e86d1d6f59e10 1-9
+packages/Gotrue/Gotrue/ListSsoProviders/SsoProviderFilter.cs
+  s_a4a4c4593353f8::t_de47ac54dedabe 1-59
+packages/Gotrue/Gotrue/ListSsoProviders/SsoProviderListResponse.cs
+  s_a4a4c4593353f8::t_22b187d7fb692d 1-16
+packages/Gotrue/Gotrue/PublicAPI.Shipped.txt
+  s_a4a4c4593353f8::t_ce51fc2ed0599f 82,237,642,715,979-982
+packages/Gotrue/Gotrue/Resend/ResendParameters.cs
+  s_a4a4c4593353f8::t_7de1e965bf56f7 69
+packages/Gotrue/Gotrue/Resend/ResendState.cs
+  s_a4a4c4593353f8::t_f06dbf010670dd 1-12
+packages/Gotrue/Gotrue/ResetPasswordForEmailOptions.cs
+  s_a4a4c4593353f8::t_86f435f8524261 1-8,10-13,15-18,20-23,25-28,30-35,37-41
+packages/Gotrue/Gotrue/SignInWithWeb3/SignInWithWeb3Body.cs
+  s_a4a4c4593353f8::t_2f50b474c498c1 1-35
+packages/Gotrue/Gotrue/SignInWithWeb3/SignInWithWeb3Options.cs
+  s_a4a4c4593353f8::t_9c17fe08e19dfc 1-10
+packages/Gotrue/Gotrue/SignInWithWeb3/Web3Credentials.cs
+  s_a4a4c4593353f8::t_8964b0b1d1ffe1 1-75
+packages/Gotrue/Gotrue/SignUp/SignUpBody.cs
+  s_a4a4c4593353f8::t_e33a5a53846fe7 1-66
+packages/Gotrue/Gotrue/SignUp/SignUpState.cs
+  s_a4a4c4593353f8::t_cb013234ac773a 1-28
+packages/Gotrue/Gotrue/SignUpOptions.cs
+  s_a4a4c4593353f8::t_6cbfae453d3dd5 1-7,10-15,17,19-23
+packages/Gotrue/Gotrue/UpdateSsoProvider/SsoProviderChanges.cs
+  s_a4a4c4593353f8::t_2021525d90783c 1-64
+packages/Gotrue/Gotrue/UpdateSsoProvider/UpdateSsoProviderBody.cs
+  s_a4a4c4593353f8::t_81d65e5945b355 1-51
+packages/Postgrest/Postgrest/Postgrest.csproj
+  s_a4a4c4593353f8::t_0af15476d1ab5a 16-17,27
+packages/Realtime/.gate-baseline.json
+  s_a4a4c4593353f8::t_76e3bd5ed1cbb8 7,17
+packages/Realtime/Realtime.Tests/Channels/ChannelHandlerTests.cs
+  s_a4a4c4593353f8::t_5ad7af4b066d41 149-157
+packages/Realtime/Realtime.Tests/Channels/ClientChannelCacheTests.cs
+  s_a4a4c4593353f8::t_d0f62a206a0f95 80-87
+packages/Realtime/Realtime.Tests/Connection/AccessTokenCallbackTests.cs
+  s_a4a4c4593353f8::t_edda2ecfb3e565 1-97
+packages/Realtime/Realtime.Tests/Connection/ClientReconnectionTests.cs
+  s_a4a4c4593353f8::t_b535513dcf1b52 8,88-113
+packages/Realtime/Realtime.Tests/Connection/ConnectionStateTests.cs
+  s_a4a4c4593353f8::t_8228cefdf3b07d 1-69
+packages/Realtime/Realtime.Tests/Connection/HeartbeatHandlerTests.cs
+  s_a4a4c4593353f8::t_9862288b0cbe03 1-100
+packages/Realtime/Realtime.Tests/HttpSend/HttpSendRelayTests.cs
+  s_a4a4c4593353f8::t_28b42efeef4b01 1-43
+packages/Realtime/Realtime.Tests/HttpSend/HttpSendRequestTests.cs
+  s_a4a4c4593353f8::t_c7de80dacf8296 1-136
+packages/Realtime/Realtime.Tests/PostgresChanges/PostgresChangesDeliveryTests.cs
+  s_a4a4c4593353f8::t_44479931cfad3a 115-130
+packages/Realtime/Realtime.Tests/Presence/PresenceTrackingTests.cs
+  s_a4a4c4593353f8::t_adf6d45bd11d83 4,27-29,33,42,67-89
+packages/Realtime/Realtime.Tests/Realtime.Tests.csproj
+  s_a4a4c4593353f8::t_01e7543fe173e7 26
+packages/Realtime/Realtime.Tests/Socket/SocketHandlerDispatchTests.cs
+  s_a4a4c4593353f8::t_378ab08196d984 160-217
+packages/Realtime/Realtime.Tests/Socket/WebSocketFactoryInjectionTests.cs
+  s_a4a4c4593353f8::t_b889449aff6fee 49-59
+packages/Realtime/Realtime.Tests/Support/BlockingCaller.cs
+  s_a4a4c4593353f8::t_a4664349df97c8 1-33
+packages/Realtime/Realtime/Client.cs
+  s_a4a4c4593353f8::t_72e1c8c7ba0ccd 37,47-55,97-102,140-141,150,203,239,288-306,332-334,336-347
+packages/Realtime/Realtime/Constants.cs
+  s_a4a4c4593353f8::t_fbd6de6cb66d58 1,37-83
+packages/Realtime/Realtime/Debugger.cs
+  s_a4a4c4593353f8::t_87f2a0de8c68f6 61-75
+packages/Realtime/Realtime/Exceptions/RealtimeException.cs
+  s_a4a4c4593353f8::t_71d59122ab948a 26-30
+packages/Realtime/Realtime/HttpSend/HttpBroadcaster.cs
+  s_a4a4c4593353f8::t_18b3c1c0ef8e1c 1-73
+packages/Realtime/Realtime/Interfaces/IRealtimeChannel.cs
+  s_a4a4c4593353f8::t_be5b15cc0261ae 3,237-248
+packages/Realtime/Realtime/Interfaces/IRealtimeClient.cs
+  s_a4a4c4593353f8::t_c81cf44d8881b2 38-42,70-91
+packages/Realtime/Realtime/Interfaces/IRealtimeSocket.cs
+  s_a4a4c4593353f8::t_0a57ff9ccd5006 4,147-151
+packages/Realtime/Realtime/PostgresChanges/PostgresChangesOptions.cs
+  s_a4a4c4593353f8::t_93cf4078c30c0f 68,73
+packages/Realtime/Realtime/PublicAPI.Shipped.txt
+  s_a4a4c4593353f8::t_24ced65f6f52aa 51,57,62,70,95-96,114-117,129-133,161,181,213,219,223,225,230,410,610
+packages/Realtime/Realtime/Realtime.csproj
+  s_a4a4c4593353f8::t_05801735c99a34 14-15,27
+packages/Realtime/Realtime/RealtimeChannel.cs
+  s_a4a4c4593353f8::t_36ab5769b24231 348,604-608
+packages/Realtime/Realtime/RealtimePresence.cs
+  s_a4a4c4593353f8::t_96699b86c1a097 27,33,40
+packages/Storage/Storage/Storage.csproj
+  s_a4a4c4593353f8::t_ff7bd1cc12671f 13-14,27
+packages/Supabase/Supabase.Tests/SupabaseClientCompositionTests.cs
+  s_a4a4c4593353f8::t_b2a6ad98bbc79a 167
+packages/Supabase/Supabase/Client.cs
+  s_a4a4c4593353f8::t_b2873099db1540 267
+packages/Supabase/Supabase/Supabase.csproj
+  s_a4a4c4593353f8::t_7c4eaa4f246e52 17-18,28
+packages/extensions/DependencyInjection/DependencyInjection/DependencyInjection.csproj
+  s_a4a4c4593353f8::t_bb4c46d4ffd1dd 13-14,26
+sdk-compliance.yaml
+  s_a4a4c4593353f8::t_5b4d49bbbdc5e6 10-14,54-57,59,61,125-128,278-298,571,574,580,583-586,600-603,634,642-645,669,694-697
+supabase/config.toml
+  s_a4a4c4593353f8::t_abf9d7e884cfeb 112,278-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "493286f38273e4132c1386cea9c502d6f25317c6",
+  "prompts": {},
+  "sessions": {
+    "s_a4a4c4593353f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b98e9b5-2916-4b22-b75d-190f48dbd544",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
