@@ -1,0 +1,39 @@
+packages/Realtime/Realtime.Tests/Channels/RejoinTimerTests.cs
+  s_a4a4c4593353f8::t_01343a8751d1b4 1-8,10-78,80,82-83,85-86,88-97,100
+  s_a4a4c4593353f8::t_8f16251eb49744 9,79,81,84,87,98
+  s_a4a4c4593353f8::t_901b9f264adfdd 99
+packages/Gotrue/Gotrue/TokenRefresh.cs
+  s_a4a4c4593353f8::t_538710d4a7e5af 13,33,49,62,74,79,110,113-115,129,131,139,171,174,177-178,182,187,204,209-210,212,218-219
+packages/Realtime/Realtime.Tests/Socket/HeartbeatTests.cs
+  s_a4a4c4593353f8::t_33fdef87cccf00 70-99
+  s_a4a4c4593353f8::t_ba4bf36aae30b5 2
+packages/Realtime/Realtime.Tests/Connection/DeferredDisconnectTests.cs
+  s_a4a4c4593353f8::t_0a3c3b3ca588db 69-94
+  s_a4a4c4593353f8::t_4e868b3c749364 2
+packages/Realtime/Realtime/Channel/Push.cs
+  s_a4a4c4593353f8::t_c5712a54db3662 59-61,63,82-84,101,103,127,136-139,199,203
+packages/Core/Core.Tests/Http/RetryExecutorTests.cs
+  s_a4a4c4593353f8::t_806820a7dd1510 117-137,141-145
+  s_a4a4c4593353f8::t_caefdb10864a5b 138-140
+  s_a4a4c4593353f8::t_fea4a1e25c8bf0 152-157
+packages/Realtime/Realtime.Tests/Support/SpyTimeProvider.cs
+  s_a4a4c4593353f8::t_47b5fa8fdb728f 1-65
+packages/Realtime/Realtime.Tests/Support/NeverRunsContinuations.cs
+  s_a4a4c4593353f8::t_1ff87d5b623041 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c4e0b8e9b6c9ca287d9cfeb705696d05c0c6f88f",
+  "prompts": {},
+  "sessions": {
+    "s_a4a4c4593353f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b98e9b5-2916-4b22-b75d-190f48dbd544",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
