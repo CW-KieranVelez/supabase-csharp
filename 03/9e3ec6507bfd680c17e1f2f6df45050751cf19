@@ -1,0 +1,41 @@
+packages/Realtime/Realtime/RealtimeSocket.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 91,307,310,312-324,672,674
+packages/Realtime/Realtime.Tests/Socket/PushDispatchTests.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 1-92
+packages/Postgrest/Postgrest/FallbackHttpClient.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 1-22
+packages/Postgrest/Postgrest.Tests/Requests/FallbackHttpClientTests.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 1-39
+packages/Realtime/Realtime.Tests/Support/FakeWebSocket.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 101-103,106-107
+packages/Gotrue/Gotrue/Helpers.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 44,75,253
+packages/Postgrest/Postgrest/Helpers.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 29,155
+packages/Gotrue/Gotrue.Tests/Transport/FallbackHttpClientTests.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 1-39
+packages/Storage/Storage/Extensions/ProgressableStreamContent.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 9-11,13-87
+packages/Storage/Storage.Tests/Files/ProgressableStreamContentTests.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 1-47
+packages/Realtime/Realtime/HttpSend/HttpBroadcaster.cs
+  s_70c5aa29cbc251::t_250b7e1acb5303 21-22,45
+packages/Gotrue/Gotrue/FallbackHttpClient.cs
+  s_70c5aa29cbc251::t_3bbc1f488cdc69 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "039e3ec6507bfd680c17e1f2f6df45050751cf19",
+  "prompts": {},
+  "sessions": {
+    "s_70c5aa29cbc251": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81259e44-516b-4327-996d-25ce9b88fa64",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
