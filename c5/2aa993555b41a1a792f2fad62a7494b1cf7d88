@@ -1,0 +1,26 @@
+packages/Realtime/Realtime.Tests/Socket/PushDispatchTests.cs
+  s_70c5aa29cbc251::t_f94ef7f37b42c2 1-2,10
+  s_70c5aa29cbc251::t_972e000dd47ce8 84-85
+  s_70c5aa29cbc251::t_804b948472c5ba 60,62,67,70-72,74-83,86
+packages/Storage/Storage.Tests/Files/ProgressableStreamContentTests.cs
+  s_70c5aa29cbc251::t_24e9dcaf53066e 146-148,154-156
+  s_70c5aa29cbc251::t_29ebe08162d551 4,48-72,75,80,82,84-115,117-118,120-121,127-145,149-153,157-171
+  s_70c5aa29cbc251::t_b06b333e30d3e7 116,119,122-126
+  s_70c5aa29cbc251::t_b8a6c7f033a9a4 73-74,76-79,81,83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c52aa993555b41a1a792f2fad62a7494b1cf7d88",
+  "prompts": {},
+  "sessions": {
+    "s_70c5aa29cbc251": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81259e44-516b-4327-996d-25ce9b88fa64",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "CW-KieranVelez <kieran.velez@codewizards.co.uk>"
+    }
+  }
+}
